@@ -9,3 +9,7 @@ Fig3.dat, Fig3.py
 Fig4.dat, Fig4.py
 - data and Python script for producing Figure 4 of the paper
 - the figure shows the quantum non-Gaussianity certification of the photon-number-resolving detector using the vacuum state and two thermal states
+
+
+
+All the scripts were prepared and tested with Python 3.x.x, Matplolib,...

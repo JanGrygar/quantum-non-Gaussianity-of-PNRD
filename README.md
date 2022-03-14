@@ -1,0 +1,11 @@
+# Quantum non-Gaussianity of photon-number-resolving detectors
+
+This repository provides data and code to the paper **Quantum non-Gaussianity certification of photon-number-resolving detectors**, preprint: [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx), by Jan Grygar, Josef Hloušek, Jaromír Fiurášek, and Miroslav Ježek.
+
+Fig3.dat, Fig3.py
+- data and Python script for producing Figure 3 of the paper
+- the figure shows photon distributions of probe thermal states
+
+Fig4.dat, Fig4.py
+- data and Python script for producing Figure 4 of the paper
+- the figure shows the quantum non-Gaussianity certification of the photon-number-resolving detector using the vacuum state and two thermal states

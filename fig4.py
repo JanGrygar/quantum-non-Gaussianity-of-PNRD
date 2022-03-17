@@ -53,7 +53,7 @@ fig = plt.figure(figsize=(12, 8))
 plt.plot(threshold[:,0],threshold[:,1],color="crimson") # plot Threshold
 
 for x in range(0,9):
-    if x>2: # simulation data
+    if x>2: # simulated data
         plt.errorbar(data[x][0],data[x][1],xerr=[[data[x][2]], [ data[x][3]]], yerr=[[data[x][4]], [data[x][5]]] ,fmt="o",color="#10eda9",markersize=8,capsize=5,elinewidth=2,capthick=2, )
     else: # measured data 
         plt.errorbar(data[x][0],data[x][1],xerr=[[data[x][2]], [ data[x][3]]], yerr=[[data[x][4]], [data[x][5]]] ,fmt="o",color="#6051A7",markersize=8,capsize=5,elinewidth=2,capthick=2)

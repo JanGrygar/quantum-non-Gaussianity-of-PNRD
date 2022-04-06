@@ -2,7 +2,7 @@
 
 This repository provides data and code to the paper **Quantum non-Gaussianity certification of photon-number-resolving detectors**, preprint: [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx), by Jan Grygar, Josef Hloušek, Jaromír Fiurášek, and Miroslav Ježek.
 
-Fig3.dat, Fig3.py
+fig3_nq.txt, fig3_ns.txt, fig3.py
 - data and Python script for producing Figure 3 of the paper
 - the figure shows photon distributions of probe thermal states
 

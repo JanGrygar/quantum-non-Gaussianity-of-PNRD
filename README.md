@@ -14,6 +14,12 @@ fig5.txt, fig5_theoretical_curve.txt, fig5.py
 - data and Python script for producing Figure 5 of the paper
 - the figure shows the quantum non-Gaussianity certification of the PNRD for increasing level of background noise
 
+fig6.txt, fig6.py
+- data and Python script for producing Figure 6 of the paper
+- the figure shows the quantum non-Gaussianity certification of the PNRD using noise addition
 
+fig7.txt, fig7.py
+- data and Python script for producing Figure 7 of the paper
+- the figure shows the quantum non-Gaussianity certification of the PNRD using three thermal states
 
 All the scripts were prepared and tested with Python 3.8.12, Numpy 1.19.4, and Matplotlib 3.5.0.

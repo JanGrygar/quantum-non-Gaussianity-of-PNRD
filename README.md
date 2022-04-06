@@ -6,9 +6,13 @@ fig3_nq.txt, fig3_ns.txt, fig3.py
 - data and Python script for producing Figure 3 of the paper
 - the figure shows photon distributions of probe thermal states
 
-Fig4.dat, Fig4.py
+fig4.txt, fig4.py
 - data and Python script for producing Figure 4 of the paper
-- the figure shows the quantum non-Gaussianity certification of the photon-number-resolving detector using the vacuum state and two thermal states
+- the figure shows the quantum non-Gaussianity certification of the photon-number-resolving detector (PNRD) using the vacuum state and two thermal states
+
+fig5.txt, fig5_theoretical_curve.txt, fig5.py
+- data and Python script for producing Figure 5 of the paper
+- the figure shows the quantum non-Gaussianity certification of the PNRD for increasing level of background noise
 
 
 

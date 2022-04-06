@@ -12,4 +12,4 @@ Fig4.dat, Fig4.py
 
 
 
-All the scripts were prepared and tested with Python 3.x.x, Matplolib,...
+All the scripts were prepared and tested with Python 3.8.12, Numpy 1.19.4, and Matplotlib 3.5.0.

@@ -36,7 +36,7 @@ def threshol_parameter_t(t,v):
 
 osa=np.linspace(0.04,1,300)
 threshold=np.zeros((300,2))
-T=0.479
+T=0.491
 
 # Calculation of the threshold for negausovast:
 po=0

@@ -22,7 +22,7 @@ fig7.txt, fig7.py
 - data and Python script for producing Figure 7 of the paper
 - the figure shows the quantum non-Gaussianity certification of the PNRD using three thermal states
 
-fig4_raw.txt, fig5_raw.txt, fig6_raw.txt, fig7_raw.txt
+fig4_raw.txt, fig5_raw.txt, fig6_raw.txt, fig7_raw.txt  
 fig4_raw.py, fig5_raw.py, fig6_raw.py, fig7_raw.py
 - raw detection data and Python scripts for their parsing
 

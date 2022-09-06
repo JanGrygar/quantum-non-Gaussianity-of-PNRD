@@ -1,6 +1,6 @@
 # Quantum non-Gaussianity of photon-number-resolving detectors
 
-This repository provides data and code to the paper **Quantum non-Gaussianity certification of photon-number-resolving detectors**, preprint: [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx), by Jan Grygar, Josef Hloušek, Jaromír Fiurášek, and Miroslav Ježek.
+This repository provides data and code to the paper **Quantum non-Gaussianity certification of photon-number-resolving detectors**, Optics Express 30, 33097 (2022), DOI: [10.1364/OE.463786](https://doi.org/10.1364/OE.463786), preprint: [arXiv:2208.12521](https://arxiv.org/abs/2208.12521), by Jan Grygar, Josef Hloušek, Jaromír Fiurášek, and Miroslav Ježek.
 
 **fig3_nq.txt, fig3_ns.txt, fig3.py**
 - data and Python script for producing Figure 3 of the paper
